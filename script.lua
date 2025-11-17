@@ -695,7 +695,7 @@ else
             Icon = "rbxassetid://6034509993"
         })
     };
-    local v139 = "https://raw.githubusercontent.com/Skyzee02/skntlxxnxxnxxnxxnxx04/refs/heads/main/2.lua";
+    local v139 = "https://raw.githubusercontent.com/SekayzeeOnly/pisangkeju/refs/heads/main/2.lua";
     local l_status_4, l_result_4 = pcall(function() --[[ Line: 0 ]] --[[ Name:  ]]
         -- upvalues: v139 (ref)
         local v140 = game:HttpGet(v139);
