@@ -6117,7 +6117,7 @@ else
             l_TeleportService_1:Teleport(game.PlaceId, l_LocalPlayer_9);
         end
     });
-    local v1210 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Skyzee02/skntlxxnxxnxxnxxnxx04/refs/heads/main/2.lua"))();
+    local v1210 = loadstring(game:HttpGet("https://raw.githubusercontent.com/SekayzeeOnly/pisangkeju/refs/heads/main/2.lua"))();
     local v1211 = v138.Webhook:AddSection("Webhook Event Settings");
     v1211:AddInput({
         Title = "Set Hunt Webhook", 
