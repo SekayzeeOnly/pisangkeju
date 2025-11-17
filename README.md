@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Skyzee02.Skyzee02&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SekayzeeOnly.SekayzeeOnly&"  />
 </div>
 
 ###
@@ -63,8 +63,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Skyzee02&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skyzee02&theme=redical" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=SekayzeeOnly&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SekayzeeOnly&theme=redical" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
